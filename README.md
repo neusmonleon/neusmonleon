@@ -6,7 +6,7 @@
 * 🌱 I’m currently learning everything 🤓
 * 🔭 2022 Goals: Start working as a fullstack developer and still improving my developer skills & Non stop learning!
 
-Connect with me:
+####  Connect with me:
 
 <a target="_blank" rel="noopener noreferrer" href="mailto:neusmonleon@gmail.com "> <img src="https://mdmdeals.com/wp-content/uploads/2019/07/Mail-icon.png" alt="Mail" width="30">
  </a> <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/neus-monleon"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
