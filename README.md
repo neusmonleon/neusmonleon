@@ -8,8 +8,8 @@
 
 Connect with me:
 
-<a href="neusmonleon@gmail.com "> <img src="https://mdmdeals.com/wp-content/uploads/2019/07/Mail-icon.png" alt="Mail" width="30" href="neusmonleon@gmail.com ">
- </a> | <a href="www.linkedin.com/in/neus-monleon"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" href="www.linkedin.com/in/neus-monleon">
+<a rel="noopener noreferrer" href="neusmonleon@gmail.com "> <img src="https://mdmdeals.com/wp-content/uploads/2019/07/Mail-icon.png" alt="Mail" width="30" href="neusmonleon@gmail.com ">
+ </a> <a rel="noopener noreferrer" href="www.linkedin.com/in/neus-monleon"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" href="www.linkedin.com/in/neus-monleon">
  </a> 
 
 
