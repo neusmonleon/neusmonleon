@@ -1,6 +1,6 @@
 #### Hi there, I am NeusMonleon 👋
 
-### I am a Fullstack Junior Developer!
+### I am a Fullstack Developer Junior!
 
 * 💻 I'm developing BeGenius_Street Scape
 * 🌱 I’m currently learning everything 🤓
